@@ -2,7 +2,10 @@
 
 #### Projects
 
-<!-- ORGList:START -->- [Million.js](#millionjs) - 2- [Shelf](#shelf) - 2- [Prisma ORM](#prisma-orm) - 1
+<!-- ORGList:START -->
+- [Million.js](#millionjs) - 2
+- [Shelf](#shelf) - 2
+- [Prisma ORM](#prisma-orm) - 1
 <!-- ORGList:END -->
 
 <!-- CONTRIBUTIONS:START -->
